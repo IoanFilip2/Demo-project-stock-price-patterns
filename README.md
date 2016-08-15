@@ -36,15 +36,15 @@ Subsequently, a multi-group trading algorithm can be implemented using this line
 
 ### Future work: 
 
-1. We need better resolution of the tick data over longer periods (minute prices - or better - and multi-year records). All this enormous data is public, but not very easy to find (and scrape) due to the restrictive terms of use of the various online services who provide the data (e.g. Bloomberg finance has made this tick data public, but has explictly disallowed scraping and bots).
+1. A better resolution of the tick data over longer periods (minute prices - or better - and multi-year records). All this enormous data is public, but not very easy to find (and scrape) due to the restrictive terms of use of the various online services who provide the data (e.g. Bloomberg finance has made this tick data public, but has explictly disallowed scraping and bots).
 
-2. We need to incorporate stochastic models to account for some of the random noise in the historical price data.
+2. To incorporate stochastic models to account for some of the random noise in the historical price data.
 
-3. We need to further incorporate the historical trading volumes (data we already scraped from Google Finance) into our calculations.
+3. To further take into consideration the historical trading volumes (data we already scraped from Google Finance) into our calculations.
 
-4. We need to run more sophisticated clustering algorithms on the correlation graph of stock symbols in order to isolate smaller highly connected sets of stocks.
+4. To run more sophisticated clustering algorithms on the correlation graph of stock symbols in order to isolate smaller highly connected sets of stocks.
 
-5. We need to begin addressing goal No. 3 initially stated in the Project description defining and modeling "market schocks".
+5. T address goal No. 3 initially stated in the Project description defining and modeling "market schocks".
  
 
 

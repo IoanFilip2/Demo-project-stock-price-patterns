@@ -1,14 +1,7 @@
 ##### IOAN FILIP
-##### 07/18/2016
 
-##### DATA INCUBATOR CHALLENGE
+##### Stock prices: patterns -- ALL scripts into one file
 
-## NOTE. I had initially put the separate parts of this script as single on my Challenge github repo.
-## I deleted those files afterward, as it seems you only wanted the non-trivial plots
-## to be hosted on github.
-
-## This script merges the separate scripts I wrote to process the historical stock prices
-## from Google Finance.
 
 import sys, os, urllib.request, json, csv 
 

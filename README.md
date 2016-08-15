@@ -19,7 +19,7 @@ At the current stage of the project, we present a rough draft towards the goals 
 
 So far, our demo only addresses goal Nos. 1 and 2 from the project description. We deal with a relatively small, low-resolution tick data set and simplistic modeling using multi-linear regression.
 
-All csv files we obtain from scraping and processing, along with several extra plots and digrams can be found here. The "PARTS" below refer to the sections in the file "StockDataPricessALLinONE.py".
+All csv files we obtain from scraping and processing, along with several extra plots and digrams can be found here. The "PARTS" below refer to the sections in the file "StockDataPricesALLinONE.py".
 
 ### Code summary:
 

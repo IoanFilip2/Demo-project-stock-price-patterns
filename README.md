@@ -44,7 +44,7 @@ Subsequently, a multi-group trading algorithm can be implemented using this line
 
 4. To run more sophisticated clustering algorithms on the correlation graph of stock symbols in order to isolate smaller highly connected sets of stocks.
 
-5. T address goal No. 3 initially stated in the Project description defining and modeling "market schocks".
+5. To address goal No. 3 initially stated in the Project description defining and modeling "market schocks".
  
 
 
